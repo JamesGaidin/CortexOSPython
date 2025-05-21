@@ -316,6 +316,37 @@ paket-files/
 __pycache__/
 *.pyc
 
+# Python
+__pycache__/
+*.py[cod]
+*.egg
+*.egg-info/
+dist/
+build/
+*.pyo
+*.pyd
+*.pdb
+*.log
+
+# Virtual environments
+.venv/
+env/
+ENV/
+venv/
+
+# VS Code
+.vscode/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.VC.db
+
+# OS
+.DS_Store
+Thumbs.db
+
 # Cake - Uncomment if you are using it
 # tools/**
 # !tools/packages.config
