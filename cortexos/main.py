@@ -1,6 +1,6 @@
-from cortexos.selvarien import Selvarien
-from cortexos.eluren import Eluren
-from cortexos.halorin import Halorin
+from selvarien import Selvarien
+from eluren import Eluren
+from halorin import Halorin
 
 def main():
     # Initialize components
