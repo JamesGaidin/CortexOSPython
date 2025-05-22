@@ -1,6 +1,6 @@
-from selvarien import Selvarien
-from eluren import Eluren
-from halorin import Halorin
+from layers.selvarien import Selvarien
+from layers.eluren import Eluren
+from layers.halorin import Halorin
 
 def main():
     # Initialize components
